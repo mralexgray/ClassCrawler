@@ -19,7 +19,7 @@ int main (int argc, const char * argv[])
 #elif 0
 	// The tool itself; contains _NSResurrectedObject, for some reason.
 	NSString *string = ClassHierarchyGraphVizForBundle([NSBundle mainBundle]);
-#elif 1
+#elif 0
 	// Superclasses and subclasses of a given class.
 	NSString *string = ClassHierarchyGraphVizForClass([NSDictionary class]);
 #else

@@ -1,0 +1,6 @@
+
+*.xcworkspacedata
+
+*.xcuserstate
+
+ClassCrawler.xcodeproj/xcuserdata/localadmin.xcuserdatad/xcschemes/xcschememanagement.plist
